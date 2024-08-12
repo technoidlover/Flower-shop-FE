@@ -20,7 +20,6 @@ Flower Shop is an online flower and wedding shop web application built with Reac
 - Add products to the shopping cart.
 - Remove products from the shopping cart.
 - Proceed to checkout.
-- Order management (optional, if there is a backend).
 
 ## Installation and Running the Project
 
