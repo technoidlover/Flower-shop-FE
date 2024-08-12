@@ -61,5 +61,6 @@ Flower Shop is an online flower and wedding shop web application built with Reac
   - `package-lock.json` - Lockfile for installed dependencies
   - `package.json` - Project metadata and dependencies
   - `README.md` - Project documentation
+## Contact: minhnh.dev@gmail.com
 
 
