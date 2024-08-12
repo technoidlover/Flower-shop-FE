@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Flower Shop is an online flower shop web application built with React. This application allows users to browse various types of flowers, add products to their cart, and proceed to checkout. This project aims to create a simple yet powerful e-commerce platform that provides an excellent online shopping experience for users.
+Flower Shop is an online flower and wedding shop web application built with React. This application allows users to browse various types of flowers or services, add products to their cart, and proceed to checkout. This project aims to create a simple yet powerful e-commerce platform that provides an excellent online shopping experience for users.
 
 ## Technologies Used
 
